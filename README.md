@@ -1,2 +1,2 @@
 # SLAMD
-Django Web App for Sequential Learning
+Web App for Sequential Learning
